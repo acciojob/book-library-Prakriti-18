@@ -11,7 +11,13 @@ body{
 .book > p{
 	color: #777777;
 }
-.book > button{
+/* .book > button{
+	background-color: #2ecc71;
+	color: #fff;
+	border-style: none;
+	width: 95%
+} */
+.price-btn{
 	background-color: #2ecc71;
 	color: #fff;
 	border-style: none;
